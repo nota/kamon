@@ -1,0 +1,15 @@
+{
+  "name": "kamon",
+  "version": "1.0.0",
+  "description": "This is icon system for Nota Inc.",
+  "main": "dist/sprite.svg",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "svg-sprite": "^1.5.0"
+  }
+}
