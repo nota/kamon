@@ -1,0 +1,6 @@
+{
+  "plugins": [
+    { "removeTitle": true },
+    { "removeAttrs": { "attrs": "fill" } }
+  ]
+}

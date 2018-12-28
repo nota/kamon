@@ -1,5 +1,3 @@
 $(function() {
-  $('div').load('../dist/sprite.svg', function () {
-    $('body').append($(this).html())
-  })
+  $('.svg-sprite').load('../dist/sprite.svg')
 })

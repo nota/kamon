@@ -4,6 +4,7 @@
   "description": "This is icon system for Nota Inc.",
   "main": "dist/sprite.svg",
   "scripts": {
+    "sprite": "svg-sprite -C config/config.json --shape-transform-svgo config/svgo.json svg/*.svg",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
