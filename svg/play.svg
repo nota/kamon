@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title> play</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5.57128767,2.2537989 C5.0179726,1.92425382 4.44624658,1.915632 3.85709589,2.22793345 C3.28569863,2.55747853 3,3.04285502 3,3.68470155 L3,20.3353503 C3,20.9768775 3.28569863,21.4625733 3.85709589,21.7921184 C4.14279452,21.9307061 4.42849315,22 4.71419178,22 C5.01764384,22 5.30367123,21.9220843 5.57128767,21.7662529 L20.1429041,13.4410882 C20.7143014,13.1287868 21,12.6520321 21,12.0105049 C21,11.3689777 20.7136438,10.891265 20.1429041,10.5789636 L5.57128767,2.2537989 Z" id="path-1"></path>
+    </defs>
+    <g id="-play" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Shape" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+    </g>
+</svg>

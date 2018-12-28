@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>shape </title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M2,16.0551163 L2,21.1365944 L7.17221874,21.1365944 L17.5166562,10.9736382 L12.3444375,5.89216017 L2,16.0551163 L2,16.0551163 Z M3.54055313,16.8028346 L4.53394427,15.8293113 L7.46896354,18.7056302 L6.49814948,19.6791535 L3.54055313,19.6791535 L3.54055313,16.8028346 Z M18.1894998,2.4641742 L21.1112624,5.32238379 C21.4181497,5.64007925 21.5713645,6.01069895 21.5715171,6.43409299 C21.5715171,6.86573301 21.4183023,7.23215477 21.1115676,7.53350817 L19.047594,9.56112182 L13.8753752,4.47964375 L15.9391963,2.4641742 C16.2375377,2.15487466 16.6103501,2 17.0580912,2 C17.4974391,2 17.874677,2.15487466 18.1894998,2.4641742 Z" id="path-1"></path>
+    </defs>
+    <g id="shape-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="draw" fill="#000000" xlink:href="#path-1"></use>
+    </g>
+</svg>

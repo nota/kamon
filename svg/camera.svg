@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title> camera</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8,8 L8,7 C8,5.8954305 8.8954305,5 10,5 L14,5 C15.1045695,5 16,5.8954305 16,7 L16,8 L19,8 C20.1045695,8 21,8.8954305 21,10 L21,18 C21,19.1045695 20.1045695,20 19,20 L5,20 C3.8954305,20 3,19.1045695 3,18 L3,10 C3,8.8954305 3.8954305,8 5,8 L8,8 Z M12,18 C14.209139,18 16,16.209139 16,14 C16,11.790861 14.209139,10 12,10 C9.790861,10 8,11.790861 8,14 C8,16.209139 9.790861,18 12,18 Z" id="path-1"></path>
+    </defs>
+    <g id="-camera" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#000000" xlink:href="#path-1"></use>
+    </g>
+</svg>
