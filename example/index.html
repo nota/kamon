@@ -1,26 +1,20 @@
 <!DOCTYPE html>
-<html lang='en' dir='ltr'>
+<html lang='ja'>
   <head>
-    <script src='https://code.jquery.com/jquery-3.3.1.min.js' integrity='sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=' crossorigin='anonymous'></script>
     <meta charset='utf-8'>
+    <script src='https://code.jquery.com/jquery-3.3.1.min.js' integrity='sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=' crossorigin='anonymous'></script>
     <link rel='stylesheet' href='./style.css'>
     <title>Kamon example</title>
   </head>
 
   <body>
-    <!-- SVG Spritesのインライン配置 -->
-    <div class='svg-sprite' hidden></div>
-
-    <!-- アイコン表示のサンプル -->
-    <svg class='icon'>
-      <use xlink:href='#chrome'>
-    </svg>
-    <svg class='icon'>
-      <use xlink:href='#facebook'>
-    </svg>
-
-    <script>
-      $('.svg-sprite').load('../dist/sprite.svg')
+    <div class='sprite' hidden></div>
+    <div class='icons'></div>
+    <script type='text/javascript'>
+      $(function () {
+        $('.sprite').load('../dist/sprite.svg')
+        $('.icons').load('./dest/icons.html')
+      })
     </script>
   </body>
 </html>
