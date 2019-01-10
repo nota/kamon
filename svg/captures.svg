@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
-    <title> captures</title>
+    <title>/ captures</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M20,15 L20,5.40850652 C20,4.63186208 19.3681379,4 18.5914935,4 L5.40850652,4 C4.63186208,4 4,4.63186208 4,5.40850652 L4,15 L20,15 Z M20,17 L4,17 L4,18.5915156 C4,19.3681601 4.63186208,20 5.40850652,20 L18.5914935,20 C19.3681379,20 20,19.3681601 20,18.5915156 L20,17 Z M4.9922331,22 C3.34233195,22 2,20.6576916 2,19.0077904 L2,4.9922331 C2,3.34230842 3.34233195,2 4.9922331,2 L19.0077669,2 C20.6576916,2 22,3.34230842 22,4.9922331 L22,19.0077904 C22,20.6576916 20.6576916,22 19.0077669,22 L4.9922331,22 Z" id="path-1"></path>
     </defs>
-    <g id="-captures" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="/-captures" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <mask id="mask-2" fill="white">
             <use xlink:href="#path-1"></use>
         </mask>

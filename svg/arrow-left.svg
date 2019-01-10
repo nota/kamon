@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
-    <title>arrow-left</title>
+    <title>/arrow-left</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M15.5,7.00179743 C15.5,6.44851999 15.1582517,6.28479025 14.7256168,6.64531937 L8.77438325,11.6046806 C8.34670319,11.9610807 8.3417483,12.5347902 8.77438325,12.8953194 L14.7256168,17.8546806 C15.1532968,18.2110807 15.5,18.0551184 15.5,17.4982026 L15.5,7.00179743 Z" id="path-1"></path>
     </defs>
-    <g id="arrow-left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="/arrow-left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <mask id="mask-2" fill="white">
             <use xlink:href="#path-1"></use>
         </mask>

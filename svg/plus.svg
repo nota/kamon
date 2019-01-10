@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
-    <title>plus </title>
+    <title>/plus </title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M11.1,11.1 L11.1,3.8926228 C11.1,3.39964084 11.4994783,3 12,3 C12.4970563,3 12.9,3.40977502 12.9,3.8926228 L12.9,11.1 L20.1073772,11.1 C20.6003592,11.1 21,11.4994783 21,12 C21,12.4970563 20.590225,12.9 20.1073772,12.9 L12.9,12.9 L12.9,20.1073772 C12.9,20.6003592 12.5005217,21 12,21 C11.5029437,21 11.1,20.590225 11.1,20.1073772 L11.1,12.9 L3.8926228,12.9 C3.39964084,12.9 3,12.5005217 3,12 C3,11.5029437 3.40977502,11.1 3.8926228,11.1 L11.1,11.1 Z" id="path-1"></path>
     </defs>
-    <g id="plus-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="/plus-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <mask id="mask-2" fill="white">
             <use xlink:href="#path-1"></use>
         </mask>

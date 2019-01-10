@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
-    <title>large-card</title>
+    <title>/large-card</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M3,5.0085302 C3,3.8992496 3.8926228,3 4.99508929,3 L19.0049107,3 C20.1067681,3 21,3.90195036 21,5.0085302 L21,12.9914698 C21,14.1007504 20.1093601,15 18.9942958,15 L15.3718541,15 C14.2641343,15 12.4643561,15 11.3674519,15 L4.99869797,15 C3.89484756,15 3,14.0980496 3,12.9914698 L3,5.0085302 Z M3,19 C3,17.8954305 3.8926228,17 4.99508929,17 L19.0049107,17 C20.1067681,17 21,17.8877296 21,19 C21,20.1045695 20.1093601,21 18.9942958,21 L15.3718541,21 C14.2641343,21 12.4643561,21 11.3674519,21 L4.99869797,21 C3.89484756,21 3,20.1122704 3,19 Z" id="path-1"></path>
     </defs>
-    <g id="large-card" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="/large-card" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <mask id="mask-2" fill="white">
             <use xlink:href="#path-1"></use>
         </mask>

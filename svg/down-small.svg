@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
-    <title>down-small</title>
+    <title>/down-small</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M10.5444174,14.2944174 L15.0539904,14.2944174 C15.3248457,14.2944174 15.5444174,14.5121508 15.5444174,14.8028402 L15.5444174,15.0359945 C15.5444174,15.3167887 15.3219766,15.5444174 15.0539904,15.5444174 L9.7848444,15.5444174 C9.59761906,15.5444174 9.43489753,15.4403824 9.35226189,15.2801294 C9.31531675,15.2122122 9.29441738,15.1351921 9.29441738,15.0539904 L9.29441738,9.7848444 C9.29441738,9.51398904 9.51215077,9.29441738 9.80284023,9.29441738 L10.0359945,9.29441738 C10.3167887,9.29441738 10.5444174,9.51685819 10.5444174,9.7848444 L10.5444174,14.2944174 Z" id="path-1"></path>
     </defs>
-    <g id="down-small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="/down-small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <mask id="mask-2" fill="white">
             <use xlink:href="#path-1"></use>
         </mask>

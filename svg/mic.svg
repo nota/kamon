@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
-    <title> mic</title>
+    <title>/ mic</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M17,15.0730957 L17,21.1416117 C17,21.9789191 16.4231684,22.2522903 15.7002503,21.7442194 L10.5,18.0190909 L7.25,18.0190909 C5.45507456,18.0190909 4,16.7274882 4,15.0468552 L4,8.95009149 C4,7.26971017 5.45872688,5.99403925 7.25,5.99403925 L10.5,5.99403925 L15.7002503,2.25272725 C16.4180822,1.74823097 17,2.0244133 17,2.85533492 L17,9.03956333 C17.0093779,9.03947495 17.0187663,9.03943066 17.0281648,9.03943066 C18.669464,9.03943066 20,10.3901423 20,12.0563295 C20,13.7225167 18.669464,15.0732284 17.0281648,15.0732284 C17.0187663,15.0732284 17.0093779,15.0731841 17,15.0730957 Z M11,8.98583702 L7,8.98583702 C7.00104915,8.98583702 7,15.0224531 7,15.0224531 C7,15.0201491 11,15.0193093 11,15.0193093 L14,17 L14,7 L11,8.98583702 Z" id="path-1"></path>
     </defs>
-    <g id="-mic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="/-mic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <mask id="mask-2" fill="white">
             <use xlink:href="#path-1"></use>
         </mask>

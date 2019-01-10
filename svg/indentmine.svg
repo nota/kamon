@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
-    <title>indentmine</title>
+    <title>/indentmine</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <rect id="path-1" x="7" y="11" width="10" height="2" rx="1"></rect>
     </defs>
-    <g id="indentmine" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="/indentmine" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <mask id="mask-2" fill="white">
             <use xlink:href="#path-1"></use>
         </mask>

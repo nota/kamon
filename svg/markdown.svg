@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
-    <title>markdown </title>
+    <title>/markdown </title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M19.6923077,11.93 L17.7692308,11.93 L17.7692308,8.7796875 L15.8461538,8.7796875 L15.8461538,11.93 L13.9230769,11.93 L16.8076923,15.1729687 L19.6923077,11.93 Z M6.80769231,15.0803125 L6.80769231,11.4667187 L8.73076923,13.783125 L10.6538462,11.4667187 L10.6538462,15.0803125 L12.5769231,15.0803125 L12.5769231,8.7796875 L10.6538462,8.7796875 L8.73076923,11.0960937 L6.80769231,8.7796875 L4.88461538,8.7796875 L4.88461538,15.0803125 L6.80769231,15.0803125 Z M3.44230769,17.86 C2.64701923,17.86 2,17.2365161 2,16.4701562 L2,7.38984375 C2,6.62348391 2.64701923,6 3.44230769,6 L20.5576923,6 C21.3529808,6 22,6.62348391 22,7.38984375 L22,16.4701562 C22,17.2365161 21.3529808,17.86 20.5576923,17.86 L3.44230769,17.86 Z" id="path-1"></path>
     </defs>
-    <g id="markdown-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="/markdown-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <mask id="mask-2" fill="white">
             <use xlink:href="#path-1"></use>
         </mask>

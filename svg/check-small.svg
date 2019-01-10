@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
-    <title>check-small</title>
+    <title>/check-small</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M12.053125,15.2228125 C11.564375,15.7115625 10.773125,15.7115625 10.285625,15.2228125 L8.365625,13.3040625 C7.878125,12.8153125 7.878125,12.0240625 8.365625,11.5353125 C8.854375,11.0478125 9.645625,11.0478125 10.133125,11.5353125 L11.169375,12.5715625 L15.374375,8.3665625 C15.861875,7.8778125 16.653125,7.8778125 17.141875,8.3665625 C17.630625,8.8540625 17.630625,9.6453125 17.141875,10.1340625 L12.053125,15.2228125 Z" id="path-1"></path>
     </defs>
-    <g id="check-small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="/check-small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <mask id="mask-2" fill="white">
             <use xlink:href="#path-1"></use>
         </mask>
