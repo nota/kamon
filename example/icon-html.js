@@ -8,6 +8,6 @@ let html = ''
 svgFileNames.forEach(function (fileName) {
   if (!fileName.match(/svg/)) return
   const id = fileName.replace('.svg', '')
-  html += `<li><svg class="icon"><use xlink:href="#${id}"></use></svg></li>`
+  html += `<li class="icon"><div class="icon-box"><svg><use xlink:href="#${id}"></use></svg></div><span>${id}</span></li>`
 })
 fs.writeFileSync('example/dest/icons.html', html)

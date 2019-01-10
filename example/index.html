@@ -1,19 +1,24 @@
 <!DOCTYPE html>
-<html lang='ja'>
+<html lang='en'>
   <head>
     <meta charset='utf-8'>
     <script src='https://code.jquery.com/jquery-3.3.1.min.js' integrity='sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=' crossorigin='anonymous'></script>
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css'>
     <link rel='stylesheet' href='./style.css'>
     <title>Kamon example</title>
   </head>
 
   <body>
     <div class='sprite' hidden></div>
-    <div class='icons'></div>
+    <div class='container'>
+      <h1>Icon examples</h1>
+      <ul class='icons'></ul>
+    </div>
+
     <script type='text/javascript'>
       $(function () {
-        $('.sprite').load('../dist/sprite.svg')
-        $('.icons').load('./dest/icons.html')
+        $('.sprite').load('../dist/sprite.svg') // SVGスプライトを挿入
+        $('.icons').load('./dest/icons.html') // アイコンの利用事例
       })
     </script>
   </body>

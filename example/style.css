@@ -1,0 +1,56 @@
+body {
+  font-family: sans-serif;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+h1 {
+  margin: 0 0 56px;
+  font-weight: normal;
+
+}
+
+.container {
+  width: 90%;
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 64px 0;
+  text-align: center;
+}
+
+.icons {
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.icon {
+  margin: 16px 8px;
+  text-align: center;
+}
+
+.icon-box {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  width: 128px;
+  height: 128px;
+  background: rgba(0,0,0, .05);
+}
+
+.icon-box > svg {
+  width: 48px;
+  height: 48px;
+}
+
+.icon > span {
+  display: inline-block;
+  margin-top: 8px;
+  font-size: 14px;
+}
