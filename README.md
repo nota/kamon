@@ -8,15 +8,19 @@
 2. useタグを使って使用したい場所でアイコンを呼び出す
 ```html
 <body>
+  <div class='sprite' hidden></div>
+  
+  <!-- 実際にアイコンを利用する箇所 -->
+  <svg>
+    <use xlink:href='#plus'></use>
+  </svg>
+  
+  <!-- svgスプライトの配置 -->
   <script>
     $(function () {
       $('.sprite').load('https://raw.githubusercontent.com/nota/kamon/master/dist/sprite.svg?token=AAlwkZlxOhLak4puO-J5wAQ9_EE1GhhYks5cQCPKwA%3D%3D')
     })
   </script>
-  <div class='sprite' hidden></div>
-  <svg>
-    <use xlink:href='#plus'></use>
-  </svg>
 </body>
 ```
 
