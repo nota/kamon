@@ -3,7 +3,7 @@ body {
 }
 
 ul {
-  margin: 0;
+  margin: 0 -8px;
   padding: 0;
   list-style: none;
 }
@@ -15,18 +15,14 @@ h1 {
 }
 
 .container {
-  width: 90%;
-  max-width: 1140px;
-  margin: 0 auto;
+  margin: 0 60px;
   padding: 64px 0;
-  text-align: center;
 }
 
 .icons {
   width: 100%;
   display: flex;
   flex-flow: row wrap;
-  justify-content: center;
 }
 
 .icon {
@@ -47,6 +43,7 @@ h1 {
 .icon-box > svg {
   width: 48px;
   height: 48px;
+  opacity: .75;
 }
 
 .icon > span {
