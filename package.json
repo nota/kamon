@@ -1,6 +1,7 @@
 {
   "name": "kamon",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "private": "true",
   "description": "This is icon system for Nota Inc.",
   "main": "dist/sprite.svg",
   "scripts": {
@@ -8,8 +9,6 @@
     "build:example": "node example/icon-html.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "jquery": "^3.3.1"
   },
