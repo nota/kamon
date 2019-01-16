@@ -3,16 +3,17 @@
   "version": "1.0.1",
   "private": "true",
   "description": "This is icon system for Nota Inc.",
-  "main": "dist/sprite.svg",
   "scripts": {
-    "build:sprite": "svg-sprite -C config/config.json --shape-transform-svgo config/svgo.json svg/*.svg",
-    "build:example": "node example/icon-html.js",
+    "build:example": "npm-run-all build:example:*",
+    "build:example:sprite": "svg-sprite -C example/config/config.json --shape-transform-svgo example/config/svgo.json svg/*.svg",
+    "build:example:html": "node example/icon-html.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "jquery": "^3.3.1"
   },
   "devDependencies": {
+    "npm-run-all": "^4.1.5",
     "svg-sprite": "^1.5.0"
   }
 }
