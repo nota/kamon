@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>direction-down</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12.0001059,7 C12.1559859,7 12.2958141,7.05792095 12.4157365,7.17216413 L20.8195341,15.1773094 C20.9392871,15.2911299 21,15.4243003 21,15.5730535 C21,15.7215862 20.9392871,15.8547566 20.8195341,15.9688528 L19.9182,16.8278359 C19.7982776,16.9420791 19.6583647,17 19.5023576,17 C19.3466259,17 19.2068612,16.9420791 19.0869388,16.8278359 L11.9993012,10.076646 L4.91371765,16.8278359 C4.79402824,16.9420791 4.6542,17 4.49808706,17 C4.34220706,17 4.20237882,16.9420791 4.08247765,16.8278359 L3.18069882,15.9688528 C3.06079765,15.854628 3,15.7214576 3,15.5730535 C3,15.4246495 3.06079765,15.2914975 3.18069882,15.1773094 L11.5844753,7.17216413 C11.7041859,7.05792095 11.8440353,7 12.0001059,7" id="path-1"></path>
+    </defs>
+    <g id="direction-down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Fill1" fill="#000000" transform="translate(12.000000, 12.000000) scale(1, -1) translate(-12.000000, -12.000000) " xlink:href="#path-1"></use>
+    </g>
+</svg>

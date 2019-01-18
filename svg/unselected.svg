@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
-    <title>/ unselected</title>
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>unselected</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M22,12 C22,6.4771525 17.5228475,2 12,2 C6.4771525,2 2,6.4771525 2,12 C2,17.5228475 6.4771525,22 12,22 C17.5228475,22 22,17.5228475 22,12 Z M4.10526316,12 C4.10526316,7.63985724 7.63985724,4.10526316 12,4.10526316 C16.3601428,4.10526316 19.8947368,7.63985724 19.8947368,12 C19.8947368,16.3601428 16.3601428,19.8947368 12,19.8947368 C7.63985724,19.8947368 4.10526316,16.3601428 4.10526316,12 Z" id="path-1"></path>
     </defs>
-    <g id="/-unselected" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="unselected" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <mask id="mask-2" fill="white">
             <use xlink:href="#path-1"></use>
         </mask>

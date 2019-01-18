@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
-    <title>/locked </title>
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>locked</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M18,10 L18.9243122,10 C20.0683819,10 21,10.8232558 21,11.8344411 L21,20.1648013 L21,19.8274799 C21,20.8386191 20.0684343,22 18.9243122,22 L5.0756878,22 C3.93223464,22 3,21.175774 3,20.1648013 L3,11.8344411 C3,10.8211495 3.92971545,10 5.0756878,10 L6.01940003,10 C6.00669466,9.94185795 6,9.88146832 6,9.81951506 L6,8.00038771 C6,4.68662802 8.68607017,2 11.9996123,2 C15.3137904,2 18,4.68648855 18,8.00038771 L18,10 Z M16.3169179,10 L16.3169179,8.00038771 C16.3169179,5.61599 14.3842107,3.68308207 11.9996123,3.68308207 C9.61568898,3.68308207 7.68308207,5.61609035 7.68308207,8.00038771 L7.68308207,9.81951506 C7.68308207,9.88146832 7.67638741,9.94185795 7.66368204,10 L16.3169179,10 Z M5.21147631,20 L18.7885237,20 C18.9029036,20 19,19.9163008 19,19.8177968 L19,12.1814794 C19,12.0832943 18.9032736,12 18.7885237,12 L5.21147631,12 C5.09465004,12 5,12.0814641 5,12.1814794 L5,19.8177968 C5,19.9159604 5.0975415,20 5.21147631,20 Z" id="path-1"></path>
     </defs>
-    <g id="/locked-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="locked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <mask id="mask-2" fill="white">
             <use xlink:href="#path-1"></use>
         </mask>
-        <use id="locked" fill="#000000" xlink:href="#path-1"></use>
+        <use fill="#000000" xlink:href="#path-1"></use>
     </g>
 </svg>

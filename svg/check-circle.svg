@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
-    <title>/check-circle</title>
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>check-circle</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M12,2 C17.5225,2 22,6.4775 22,12 C22,17.5225 17.5225,22 12,22 C6.47625,22 2,17.5225 2,12 C2,6.4775 6.47625,2 12,2 Z M11.299125,15.762875 L16.387875,10.674125 C16.876625,10.185375 16.876625,9.394125 16.387875,8.906625 C15.899125,8.417875 15.107875,8.417875 14.620375,8.906625 L10.415375,13.111625 L9.379125,12.075375 C8.891625,11.587875 8.100375,11.587875 7.611625,12.075375 C7.124125,12.564125 7.124125,13.355375 7.611625,13.844125 L9.531625,15.762875 C10.019125,16.251625 10.810375,16.251625 11.299125,15.762875 Z" id="path-1"></path>
     </defs>
-    <g id="/check-circle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="check-circle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <mask id="mask-2" fill="white">
             <use xlink:href="#path-1"></use>
         </mask>
-        <use id="Positive-Icon" fill="#000000" xlink:href="#path-1"></use>
+        <use id="Positiveicon" fill="#000000" xlink:href="#path-1"></use>
     </g>
 </svg>

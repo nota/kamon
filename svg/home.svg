@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
-    <title>/home</title>
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>home</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M20,8.093 L20,4 C20,3.44771525 19.5522847,3 19,3 L18,3 C17.4477153,3 17,3.44771525 17,4 L17,5.093 L20,8.093 Z M20.7196312,12.4635574 L12.7682213,2.92186554 C12.4146572,2.49758864 11.7840925,2.44026457 11.3598156,2.79382866 C11.3133525,2.83254788 11.2704979,2.87540247 11.2317787,2.92186554 L3.2803688,12.4635574 C2.94916768,12.8609988 3.002866,13.4516802 3.40030733,13.7828813 C3.56865534,13.9231713 3.78086,14 4,14 L4,21 C4,21.5522847 4.44771525,22 5,22 L11,22 L11,18 L13,18 L13,22 L19,22 C19.5522847,22 20,21.5522847 20,21 L20,14 L20,14 C20.5173527,14 20.9367499,13.5806028 20.9367499,13.0632501 C20.9367499,12.8441101 20.8599212,12.6319054 20.7196312,12.4635574 Z M18,20 L15,20 L15,17 C15,16.4477153 14.5522847,16 14,16 L10,16 C9.44771525,16 9,16.4477153 9,17 L9,20 L6,20 L6,12.74 L12,5.828 L18,12.818 L18,20 Z" id="path-1"></path>
     </defs>
-    <g id="/home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <mask id="mask-2" fill="white">
             <use xlink:href="#path-1"></use>
         </mask>

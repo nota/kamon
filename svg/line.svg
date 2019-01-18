@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
-    <title>/ line</title>
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>line</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M4.66710678,6.44373053 L17.5548295,19.3314533 C17.9453538,19.7219776 18.5785188,19.7219776 18.9690431,19.3314533 L19.3314533,18.9690431 C19.7219776,18.5785188 19.7219776,17.9453538 19.3314533,17.5548295 L6.44373053,4.66710678 C6.05320624,4.27658249 5.42004126,4.27658249 5.02951697,4.66710678 L4.66710678,5.02951697 C4.27658249,5.42004126 4.27658249,6.05320624 4.66710678,6.44373053 Z" id="path-1"></path>
     </defs>
-    <g id="/-line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <mask id="mask-2" fill="white">
             <use xlink:href="#path-1"></use>
         </mask>
-        <use id="Path-3" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        <use id="Path3" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
     </g>
 </svg>

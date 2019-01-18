@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
-    <title>/ pause</title>
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>pause</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M7,3 C8.1045695,3 9,3.8954305 9,5 L9,19 C9,20.1045695 8.1045695,21 7,21 C5.8954305,21 5,20.1045695 5,19 L5,5 C5,3.8954305 5.8954305,3 7,3 Z M16,3 C17.1045695,3 18,3.8954305 18,5 L18,19 C18,20.1045695 17.1045695,21 16,21 C14.8954305,21 14,20.1045695 14,19 L14,5 C14,3.8954305 14.8954305,3 16,3 Z" id="path-1"></path>
     </defs>
-    <g id="/-pause" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="pause" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <mask id="mask-2" fill="white">
             <use xlink:href="#path-1"></use>
         </mask>
-        <use id="Combined-Shape" fill="#000000" xlink:href="#path-1"></use>
+        <use id="CombinedShape" fill="#000000" xlink:href="#path-1"></use>
     </g>
 </svg>

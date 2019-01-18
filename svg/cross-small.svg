@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
-    <title>/cross-small</title>
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>cross-small</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M14.3079036,15.7054786 L12.0024972,13.401223 L9.69209639,15.7094721 C9.30553128,16.0968426 8.67723811,16.0968426 8.29067299,15.7094721 C7.903109,15.3231 7.903109,14.6961188 8.29067299,14.3087483 L10.6000749,11.9995008 L8.29067299,9.69125172 C7.903109,9.30388119 7.903109,8.67690004 8.29067299,8.29052789 C8.67723811,7.90315737 9.30553128,7.90315737 9.69209639,8.29052789 L12.0024972,10.598777 L14.3079036,8.2945214 C14.6944687,7.90715088 15.321763,7.90715088 15.709327,8.2945214 C16.0958921,8.68189193 16.0958921,9.30887308 15.709327,9.69524523 L13.4039206,12.0004992 L15.709327,14.3047548 C16.096891,14.6911269 16.096891,15.3191065 15.709327,15.7054786 C15.3227619,16.0918507 14.6944687,16.0918507 14.3079036,15.7054786 Z" id="path-1"></path>
     </defs>
-    <g id="/cross-small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="cross-small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <mask id="mask-2" fill="white">
             <use xlink:href="#path-1"></use>
         </mask>
-        <use id="Error-Icon" fill="#000000" xlink:href="#path-1"></use>
+        <use id="Erroricon" fill="#000000" xlink:href="#path-1"></use>
     </g>
 </svg>
