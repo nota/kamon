@@ -1,40 +1,54 @@
 # kamon
-* Notaのプロダクトで共通して使えるアイコン群をまとめたリポジトリです。
-* アイコンはSVGスプライトにまとめられており、これを各プロダクトにインポートすることで利用できるようになります。
-* アイコンの一覧 : https://nota.github.io/kamon/example/
+* kamon is the repository to manage svg icon datas for the products of [NOTA Inc.](https://notainc.com)
+* See https://nota.github.io/kamon/example/ to check all icons.
 
-## 使い方
-1. SVGスプライトをプロダクトのbody直下に配置する
-2. useタグを使って使用したい場所でアイコンを呼び出す
+
+## Instllation
+* Please get svg icon set via npm.
+* `npm install kamon`
+
+## Useage
+* For web applications, we recommend to use SVG Sprites.
+* We are following this process in /example.
+1. Generate the SVG Sprites file from /svg. (Using [svg-sprites](https://www.npmjs.com/package/svg-sprite) library)
+2. Insert the generated SVG Sprites inline under the body element. (This process enables to use icon anywhere)
+3. To call icon instance, do like this
 ```html
 <body>
-  <div class='sprite' hidden></div>
+    <div class='sprite' hidden></div>  
   
-  <!-- 実際にアイコンを利用する箇所 -->
-  <svg>
-    <use xlink:href='#plus'></use>
-  </svg>
+    <!-- Call icon instance here -->
+    <svg class='hoge'>
+      <use xlink:href='#icon-name'></use>
+    </svg>  
   
-  <!-- svgスプライトの配置 -->
-  <script>
-    $(function () {
-      $('.sprite').load('https://raw.githubusercontent.com/nota/kamon/master/dist/sprite.svg?token=AAlwkZlxOhLak4puO-J5wAQ9_EE1GhhYks5cQCPKwA%3D%3D')
-    })
-  </script>
-</body>
-```
-
-## スタイルの編集方法
-クラスを追加し、cssで編集できます
-```html
-<svg class='icon'>
-  <use xlink:href='#icon-name'></use>
-</svg>
-```
-
+    <!-- Inserte SVG Sprites -->
+    <script>
+      $(function () {
+        $('.sprite').load('dest/sprite.svg')
+      })
+    </script>
+ </body>
+  ```
+  
 ```css
-.icon {
-  fill: #666;
-}
+// Set icon color
+.hoge {
+  fill: #555;
+ }
 ```
+
+## License
+#### Code
+* Copyright (c) 2019 Nota Inc.
+* This software is licensed under the MIT. (http://opensource.org/licenses/mit-license.html)
+* Applies to all HTML and CSS and Javascript files.
+
+
+#### Icons
+* Some icons in the /svg directory use the source of following service, and it is necessary to follow the license applied by them.
+* We do not guarantee that our users are compliant with the license.
+
+* [Fontawesome](https://fontawesome.com/v4.7.0/license/)  
+  License: SIL OFL 1.1 (http://scripts.sil.org/OFL)
 
