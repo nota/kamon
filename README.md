@@ -1,11 +1,11 @@
 # kamon
-* kamon is the repository to manage svg icon datas for the products of [NOTA Inc.](https://notainc.com)
+* kamon is a project to manage svg icons for the products of [NOTA Inc.](https://notainc.com)
 * See https://nota.github.io/kamon/example/ to check all icons.
 
 
-## Instllation
+## Installation
 * Please get svg icon set via npm.
-* `npm install kamon`
+* `npm install @notainc/kamon`
 
 ## Useage
 * For web applications, we recommend to use SVG Sprites.
@@ -16,12 +16,12 @@
 ```html
 <body>
     <div class='sprite' hidden></div>  
-  
+
     <!-- Call icon instance here -->
     <svg class='hoge'>
       <use xlink:href='#icon-name'></use>
     </svg>  
-  
+
     <!-- Inserte SVG Sprites -->
     <script>
       $(function () {
@@ -30,7 +30,7 @@
     </script>
  </body>
   ```
-  
+
 ```css
 // Set icon color
 .hoge {
@@ -51,4 +51,3 @@
 
 * [Fontawesome](https://fontawesome.com/v4.7.0/license/)  
   License: SIL OFL 1.1 (http://scripts.sil.org/OFL)
-
