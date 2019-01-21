@@ -11,38 +11,29 @@ ul {
 }
 
 h1 {
-  margin: 84px 0 64px;
-  font-size: 48px;
+  margin: 0 0 24px;
+  font-size: 56px;
   line-height: 48px;
 }
 
 p {
-  margin: 4px 0;
+  margin: 0;
 }
 
 a {
-  color: #fff;
+  color: #000;
   font-weight: 600;
 }
 
-.header {
-  background: #478df2;
-  color: #fff;
-}
-
-.header > .container {
-  padding: 22px 0 12px;
-}
-
 .container {
-  margin: 0 60px;
-  padding: 64px 0 96px;
+  margin: 0 56px 0 80px ;
+  padding: 120px 0 120px;
 }
 
 .note {
-  font-size: 16px;
-  opacity: .7;
+  font-size: 18px;
   line-height: 24px;
+  margin-bottom: 60px;
 }
 
 .icons {
@@ -52,7 +43,7 @@ a {
 }
 
 .icon {
-  margin: 16px 8px;
+  margin: 0 8px 16px;
   text-align: center;
 }
 
