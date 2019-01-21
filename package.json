@@ -2,7 +2,7 @@
   "name": "kamon",
   "version": "1.0.1",
   "private": "true",
-  "description": "This is icon system for Nota Inc.",
+  "description": "This is icon system for NOTA Inc.",
   "watch": {
     "build:example": "{example, svg}/*"
   },
@@ -15,10 +15,8 @@
     "start:example:watch": "npm-watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "jquery": "^3.3.1"
-  },
   "devDependencies": {
+    "jquery": "^3.3.1",
     "http-server": "^0.11.1",
     "npm-run-all": "^4.1.5",
     "npm-watch": "^0.5.0",
