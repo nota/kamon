@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>caret-down</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11.7773953,14.7303953 C11.5233953,14.7303953 11.2693953,14.6343953 11.0743953,14.4413953 L7.29739529,10.7113953 C6.90439529,10.3233953 6.90039529,9.69039529 7.28839529,9.29739529 C7.67639529,8.90439529 8.31039529,8.90039529 8.70239529,9.28839529 L11.7773953,12.3253953 L14.8513953,9.28839529 C15.2453953,8.90039529 15.8783953,8.90439529 16.2663953,9.29739529 C16.6543953,9.69039529 16.6503953,10.3233953 16.2573953,10.7113953 L12.4803953,14.4413953 C12.2853953,14.6343953 12.0313953,14.7303953 11.7773953,14.7303953" id="path-1"></path>
+    </defs>
+    <g id="caret-down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#000000" xlink:href="#path-1"></use>
+    </g>
+</svg>
