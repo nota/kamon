@@ -4,12 +4,12 @@
     <title>pause</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <path d="M7,3 C8.1045695,3 9,3.8954305 9,5 L9,19 C9,20.1045695 8.1045695,21 7,21 C5.8954305,21 5,20.1045695 5,19 L5,5 C5,3.8954305 5.8954305,3 7,3 Z M16,3 C17.1045695,3 18,3.8954305 18,5 L18,19 C18,20.1045695 17.1045695,21 16,21 C14.8954305,21 14,20.1045695 14,19 L14,5 C14,3.8954305 14.8954305,3 16,3 Z" id="path-1"></path>
+        <path d="M8,19 C9.1,19 10,18.1 10,17 L10,7 C10,5.9 9.1,5 8,5 C6.9,5 6,5.9 6,7 L6,17 C6,18.1 6.9,19 8,19 Z M14,7 L14,17 C14,18.1 14.9,19 16,19 C17.1,19 18,18.1 18,17 L18,7 C18,5.9 17.1,5 16,5 C14.9,5 14,5.9 14,7 Z" id="path-1"></path>
     </defs>
     <g id="pause" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <mask id="mask-2" fill="white">
             <use xlink:href="#path-1"></use>
         </mask>
-        <use id="CombinedShape" fill="#000000" xlink:href="#path-1"></use>
+        <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
     </g>
 </svg>
