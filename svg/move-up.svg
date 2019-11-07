@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>move-up</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10,19 L10.0057953,8.40092707 L7.321296,10.639853 C7.139088,10.6392767 7.00869116,10.5611102 7.00869116,10.3747436 C7.00869116,10.1883769 7.02572632,9.93660916 7.13967832,9.78827756 L11.2658298,4 L12.6840568,4 L16.8104785,9.69526963 C16.9242385,9.843193 16.9880981,10.2224843 16.9880981,10.3957691 C16.9880981,10.597024 16.846536,10.6391326 16.6716,10.6391326 L14.0011871,8.40075898 L14.0011871,19 L10,19 Z M5,19 L19,19 L19,21 L5,21 L5,19 Z" id="path-1"></path>
+    </defs>
+    <g id="move-up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="path-1" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+    </g>
+</svg>
