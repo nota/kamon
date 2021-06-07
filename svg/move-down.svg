@@ -1,15 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
-    <title>move-down</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <path d="M10,17.9982378 L10.0057953,7.40041005 L7.321296,9.63907295 C7.139088,9.6384967 7.00869116,9.56033942 7.00869116,9.37399468 C7.00869116,9.18764993 7.02572632,8.93591173 7.13967832,8.78759756 L11.2658298,3 L12.6840568,3 L16.8104785,8.69460055 C16.9242385,8.84250655 16.9880981,9.22175325 16.9880981,9.39501776 C16.9880981,9.59624895 16.846536,9.63835263 16.6716,9.63835263 L14.0011871,7.40024198 L14.0011871,17.9982378 L10,17.9982378 Z M5,17.9991072 L19,17.9991072 L19,20 L5,20 L5,17.9991072 Z" id="path-1"></path>
-    </defs>
-    <g id="move-down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <mask id="mask-2" fill="white">
-            <use xlink:href="#path-1"></use>
-        </mask>
-        <use id="path-1" fill="#000000" fill-rule="nonzero" transform="translate(12.000000, 11.500000) scale(-1, 1) rotate(-180.000000) translate(-12.000000, -11.500000) " xlink:href="#path-1"></use>
-    </g>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10.0058 15.5996L10 5.00176L14.0012 5.00176L14.0012 15.5998L16.6716 13.3616C16.8465 13.3616 16.9881 13.4038 16.9881 13.605C16.9881 13.7782 16.9242 14.1575 16.8105 14.3054L12.6841 20H11.2658L7.13968 14.2124C7.02573 14.0641 7.00869 13.8123 7.00869 13.626C7.00869 13.4397 7.13909 13.3615 7.3213 13.3609L10.0058 15.5996ZM19 5.00089L5 5.00089V3H19V5.00089Z" fill="black"/>
 </svg>

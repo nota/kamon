@@ -1,15 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
-    <title>page</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <path d="M4.8,17.9119191 C4.8,18.6219322 5.46915968,19.2 6.16206263,19.2 L17.9436111,19.2 C18.636155,19.2 19.2,18.6223003 19.2,17.9119191 L19.1999994,8.40000007 C18.6872372,8.40000007 18.796825,8.4 18.1039221,8.4 L6.32237364,8.4 C5.62982973,8.4 5.5903689,8.40000008 4.8,8.40000008 L4.8,17.9119191 Z M5.69478187,3 L18.3052181,3 C19.7935051,3 21,4.20898077 21,5.69478187 L21,18.3052181 C21,19.7935051 19.7910192,21 18.3052181,21 L5.69478187,21 C4.20649494,21 3,19.7910192 3,18.3052181 L3,5.69478187 C3,4.20649494 4.20898077,3 5.69478187,3 Z" id="path-1"></path>
-    </defs>
-    <g id="page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <mask id="mask-2" fill="white">
-            <use xlink:href="#path-1"></use>
-        </mask>
-        <use id="capture_visable_page" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
-    </g>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M18.3052 3H5.69478C4.20898 3 3 4.20649 3 5.69478V18.3052C3 19.791 4.20649 21 5.69478 21H18.3052C19.791 21 21 19.7935 21 18.3052V5.69478C21 4.20898 19.7935 3 18.3052 3ZM6.16206 19.2C5.46916 19.2 4.8 18.6219 4.8 17.9119V8.4H6.32237H18.1039H19.2V17.9119C19.2 18.6223 18.6362 19.2 17.9436 19.2H6.16206Z" fill="black"/>
 </svg>

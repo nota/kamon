@@ -1,15 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
-    <title>line</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <path d="M5.85455276,4.31819095 L19.6818091,18.1454472 C20.1060636,18.5697018 20.1060636,19.2575545 19.6818091,19.6818091 C19.2575545,20.1060636 18.5697018,20.1060636 18.1454472,19.6818091 L4.31819095,5.85455276 C3.89393635,5.43029816 3.89393635,4.74244555 4.31819095,4.31819095 C4.74244555,3.89393635 5.43029816,3.89393635 5.85455276,4.31819095 Z" id="path-1"></path>
-    </defs>
-    <g id="line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <mask id="mask-2" fill="white">
-            <use xlink:href="#path-1"></use>
-        </mask>
-        <use id="Mask" fill="#000000" xlink:href="#path-1"></use>
-    </g>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M5.85455 4.31819L19.6818 18.1454C20.1061 18.5697 20.1061 19.2576 19.6818 19.6818C19.2576 20.1061 18.5697 20.1061 18.1454 19.6818L4.31819 5.85455C3.89394 5.4303 3.89394 4.74245 4.31819 4.31819C4.74245 3.89394 5.4303 3.89394 5.85455 4.31819Z" fill="black"/>
 </svg>

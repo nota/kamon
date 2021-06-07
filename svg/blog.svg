@@ -1,16 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
-    <title>blog</title>
-    <desc>Created with Sketch.</desc>
-    <g id="blog" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Mask" transform="translate(2.000000, 4.000000)">
-            <path d="M11,4 L6.049,4.016 L6,12 L11,12 L11,4 Z M10,5.003 L10,11 L7.006,11 L7.043,5.012 L10,5.003 Z" id="Fill-1" fill="#040000"></path>
-            <polygon id="Fill-2" fill="#040000" points="12 5 17 5 17 4 12 4"></polygon>
-            <polygon id="Fill-3" fill="#040000" points="12 7 17 7 17 6 12 6"></polygon>
-            <polygon id="Fill-4" fill="#040000" points="12 9 17 9 17 8 12 8"></polygon>
-            <polygon id="Fill-5" fill="#040000" points="12 11 17 11 17 10 12 10"></polygon>
-            <path d="M18,13 C18,13.552 17.553,14 17,14 L5,14 L5,12.958 L5,4 L5,2 L18,2 L18,13 Z M3,13.5 C3,13.775 2.775,14 2.5,14 C2.225,14 2,13.775 2,13.5 L2,4 L3,4 L3,13.5 Z M3,0 L3,2 L0,2 L0,13 C0,14.657 1.343,16 3,16 L17,16 C18.657,16 20,14.657 20,13 L20,0 L3,0 Z" id="Fill-6" fill="#000000"></path>
-        </g>
-    </g>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M13 8L8.049 8.016L8 16H13V8ZM12 9.003V15H9.006L9.043 9.012L12 9.003Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14 9H19V8H14V9Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14 11H19V10H14V11Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14 13H19V12H14V13Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14 15H19V14H14V15Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20 17C20 17.552 19.553 18 19 18H7V16.958V8V6H20V17ZM5 17.5C5 17.775 4.775 18 4.5 18C4.225 18 4 17.775 4 17.5V8H5V17.5ZM5 4V6H2V17C2 18.657 3.343 20 5 20H19C20.657 20 22 18.657 22 17V4H5Z" fill="black"/>
 </svg>
