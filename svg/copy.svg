@@ -1,15 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
-    <title>copy</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <path d="M20,20 L11,20 L11,14 L15,14 C16.104,14 17,13.104 17,12 L17,8 L20,8 L20,20 Z M9,12 L9.042,16 L4,16 L4,10 L8,10 C9.104,10 10,9.104 10,8 L10,4 L13,4 L13,8 L9,12 Z M8,5 L8,8 L5,8 L8,5 Z M15,9 L15,12 L12,12 L15,9 Z M20,6 L15,6 L15,4 C15,2.896 14.104,2 13,2 L8,2 L2,8 L2,9 L2,16 C2,17.104 2.896,18 4,18 L9,18 L9,20 C9,21.104 9.896,22 11,22 L20,22 C21.104,22 22,21.104 22,20 L22,8 C22,6.896 21.104,6 20,6 Z" id="path-1"></path>
-    </defs>
-    <g id="copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <mask id="mask-2" fill="white">
-            <use xlink:href="#path-1"></use>
-        </mask>
-        <use id="Mask" fill="#000000" xlink:href="#path-1"></use>
-    </g>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20 20H11V14H15C16.104 14 17 13.104 17 12V8H20V20ZM9 12L9.042 16H4V10H8C9.104 10 10 9.104 10 8V4H13V8L9 12ZM8 5V8H5L8 5ZM15 9V12H12L15 9ZM20 6H15V4C15 2.896 14.104 2 13 2H8L2 8V9V16C2 17.104 2.896 18 4 18H9V20C9 21.104 9.896 22 11 22H20C21.104 22 22 21.104 22 20V8C22 6.896 21.104 6 20 6Z" fill="black"/>
 </svg>

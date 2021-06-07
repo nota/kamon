@@ -1,9 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
-    <title>locked</title>
-    <desc>Created with Sketch.</desc>
-    <g id="locked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M18.924,10 C20.068,10 21,10.823 21,11.834 L21,19.828 C21,20.839 20.068,22 18.924,22 L5.076,22 C3.932,22 3,21.176 3,20.165 L3,11.834 C3,10.821 3.93,10 5.076,10 L6.042,10 L6.042,8 C6.042,4.7 8.742,2 12.042,2 C15.342,2 18.042,4.7 18.042,8 L18.042,10 L18.924,10 Z M8.042,8 L8.042,10 L16.042,10 L16.042,8 C16.042,5.794 14.247,4 12.042,4 C9.836,4 8.042,5.794 8.042,8 Z M4.964,20.019 L18.964,20.019 L18.964,12.019 L4.964,12.019 L4.964,20.019 Z" id="Mask" fill="#000000"></path>
-    </g>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M18.924 10C20.068 10 21 10.823 21 11.834V19.828C21 20.839 20.068 22 18.924 22H5.076C3.932 22 3 21.176 3 20.165V11.834C3 10.821 3.93 10 5.076 10H6.042V8C6.042 4.7 8.742 2 12.042 2C15.342 2 18.042 4.7 18.042 8V10H18.924ZM8.042 8V10H16.042V8C16.042 5.794 14.247 4 12.042 4C9.836 4 8.042 5.794 8.042 8ZM4.964 20.019H18.964V12.019H4.964V20.019Z" fill="black"/>
 </svg>

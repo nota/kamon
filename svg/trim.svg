@@ -1,15 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
-    <title>trim</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <path d="M18.7071068,5.29289322 C18.8880712,5.47385763 19,5.72385763 19,6 L19,17 L21,17 C21.5522847,17 22,17.4477153 22,18 C22,18.5522847 21.5522847,19 21,19 L19,19 L19,21 C19,21.5522847 18.5522847,22 18,22 C17.4477153,22 17,21.5522847 17,21 L17,19 L6,19 C5.44771525,19 5,18.5522847 5,18 L5,7 L3,7 C2.44771525,7 2,6.55228475 2,6 C2,5.44771525 2.44771525,5 3,5 L5,5 L5,3 C5,2.44771525 5.44771525,2 6,2 C6.55228475,2 7,2.44771525 7,3 L7,5 L18,5 C18.2761424,5 18.5261424,5.11192881 18.7071068,5.29289322 Z M17,7 L7,7 L7,17 L17,17 L17,7 Z" id="path-1"></path>
-    </defs>
-    <g id="trim" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <mask id="mask-2" fill="white">
-            <use xlink:href="#path-1"></use>
-        </mask>
-        <use id="Combined-Shape" fill="#000000" xlink:href="#path-1"></use>
-    </g>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6 2C5.44772 2 5 2.44772 5 3V5H3C2.44772 5 2 5.44772 2 6C2 6.55228 2.44772 7 3 7H5V18C5 18.5523 5.44772 19 6 19H17V21C17 21.5523 17.4477 22 18 22C18.5523 22 19 21.5523 19 21V19H21C21.5523 19 22 18.5523 22 18C22 17.4477 21.5523 17 21 17H19V6C19 5.44772 18.5523 5 18 5H7V3C7 2.44772 6.55228 2 6 2ZM17 7H7V17H17V7Z" fill="black"/>
 </svg>
