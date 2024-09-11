@@ -7,7 +7,7 @@ const __dirname = import.meta.dirname
 
 const svgs = await readdir(path.join(__dirname, './svg'))
 
-await Promise.all(svgs.map(async (file) => {
+await Promise.all(svgs.filter(file => file.endsWith('.svg')).map(async (file) => {
   const svg = await readFile(path.join(__dirname, './svg', file), 'utf8');
   const optimizedSvg = optimize(svg, {
     plugins: [
