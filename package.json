@@ -1,16 +1,21 @@
 {
   "name": "@notainc/kamon",
-  "version": "1.1.28",
-  "description": "This is icon system for NOTA Inc.",
+  "version": "1.2.0",
+  "description": "This is icon system for Helpfeel Inc.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nota/kamon.git"
+  },
+  "type": "module",
+  "exports": {
+    "./react/*": "./dist/react/*.js"
   },
   "license": "MIT",
   "watch": {
     "build:example": "{example, svg}/*"
   },
   "scripts": {
+    "build": "node generate-react-component.mjs && npm exec tsc",
     "build:example": "npm-run-all build:example:*",
     "build:example:sprite": "svg-sprite -C example/config/config.json --shape-transform-svgo example/config/svgo.json svg/*.svg",
     "build:example:html": "node example/js/icon-html.js",
@@ -20,9 +25,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
+    "@types/react": "^18.3.5",
     "http-server": "^0.11.1",
     "npm-run-all": "^4.1.5",
     "npm-watch": "^0.5.0",
-    "svg-sprite": "^1.5.0"
+    "pascalcase": "^2.0.0",
+    "svgo": "^3.3.2",
+    "svg-sprite": "^1.5.0",
+    "typescript": "^5.6.2"
   }
 }
