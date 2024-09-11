@@ -7,7 +7,7 @@
 * Please get svg icon set via npm.
 * `npm install @notainc/kamon`
 
-## Useage
+## Usage
 * For web applications, we recommend to use SVG Sprites.
 * We are following this process in /example.
 1. Generate the SVG Sprites file from /svg. (Using [svg-sprites](https://www.npmjs.com/package/svg-sprite) library)
