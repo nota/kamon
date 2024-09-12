@@ -5,9 +5,9 @@ import { optimize } from 'svgo'
 
 const __dirname = import.meta.dirname
 
-const svgs = await readdir(path.join(__dirname, './svg'))
+const svgs = (await readdir(path.join(__dirname, './svg'))).filter(file => file.endsWith('.svg'));
 
-await Promise.all(svgs.filter(file => file.endsWith('.svg')).map(async (file) => {
+await Promise.all((svgs).map(async (file) => {
   const svg = await readFile(path.join(__dirname, './svg', file), 'utf8');
   const optimizedSvg = optimize(svg, {
     plugins: [
@@ -27,3 +27,8 @@ await Promise.all(svgs.filter(file => file.endsWith('.svg')).map(async (file) =>
     `
   );
 }));
+
+await writeFile(path.join(__dirname, './src/react/index.ts'), svgs.map(file => {
+  const name = path.basename(file, '.svg');
+  return `export {${pascalcase(name)}} from './${pascalcase(name)}';`
+}).join('\n'));

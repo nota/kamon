@@ -8,8 +8,10 @@
   },
   "type": "module",
   "exports": {
+    "./react": "./dist/react/index.js",
     "./react/*": "./dist/react/*.js"
   },
+  "main": "./dist/react/index.js",
   "sideEffects": false,
   "license": "MIT",
   "watch": {
