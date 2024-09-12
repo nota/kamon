@@ -10,6 +10,7 @@
   "exports": {
     "./react/*": "./dist/react/*.js"
   },
+  "sideEffects": false,
   "license": "MIT",
   "watch": {
     "build:example": "{example, svg}/*"
