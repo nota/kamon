@@ -12,9 +12,11 @@
 ### React
 
 ```js
-import { Star } from '@notainc/kamon/react/Star';
-import { StarFill } from '@notainc/kamon/react/StarFill';
-
+import { Star, StarFill } from '@notainc/kamon/react';
+/** Or you can use separated import
+ * import { Star } from '@notainc/kamon/react/Star';
+ * import { StarFill } from '@notainc/kamon/react/StarFill';
+ **/
 function Like () {
   const [liked, setLiked] = useState(false);
   return <button onClick={setLiked(prev => !prev)}>
