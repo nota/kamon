@@ -7,7 +7,26 @@
 * Please get svg icon set via npm.
 * `npm install @notainc/kamon`
 
-## Useage
+## Usage
+
+### React
+
+```js
+import { Star, StarFill } from '@notainc/kamon/react';
+/** Or you can use separated import
+ * import { Star } from '@notainc/kamon/react/Star';
+ * import { StarFill } from '@notainc/kamon/react/StarFill';
+ **/
+function Like () {
+  const [liked, setLiked] = useState(false);
+  return <button onClick={setLiked(prev => !prev)}>
+    {liked ? <StarFill /> : <Star />} Like
+  </button>
+}
+```
+
+### SVG
+
 * For web applications, we recommend to use SVG Sprites.
 * We are following this process in /example.
 1. Generate the SVG Sprites file from /svg. (Using [svg-sprites](https://www.npmjs.com/package/svg-sprite) library)
@@ -37,6 +56,12 @@
   fill: #555;
  }
 ```
+
+## Development
+
+- Clone this repository.
+- `npm install`
+- `npm run build`
 
 ## License
 #### Code
