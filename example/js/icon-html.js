@@ -1,4 +1,4 @@
-const fs = require('fs')
+import fs from 'fs';
 const svgDir = './svg'
 
 // svgファイルが存在するアイコンを表示するためのhtmlを生成するスクリプト
