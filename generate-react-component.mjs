@@ -30,5 +30,5 @@ await Promise.all((svgs).map(async (file) => {
 
 await writeFile(path.join(__dirname, './src/react/index.ts'), svgs.map(file => {
   const name = path.basename(file, '.svg');
-  return `export {${pascalcase(name)}} from './${pascalcase(name)}';`
+  return `export {${pascalcase(name)} as Kamon${pascalcase(name)}} from './${pascalcase(name)}';`
 }).join('\n'));
