@@ -12,7 +12,25 @@ await Promise.all((svgs).map(async (file) => {
   const optimizedSvg = optimize(svg, {
     plugins: [
       'removeTitle',
-      {name: 'removeAttrs', params: {attrs: 'fill'}},]
+      {name: 'removeAttrs', params: {attrs: 'fill'}},
+      {
+        type: 'visitor',
+        name: 'reactnize-attr-names',
+        fn: () => {
+          return {
+            element: {
+              enter: node => {
+                Object.keys(node.attributes).forEach(attr => {
+                  if (!attr.includes('-')) return;
+                  node.attributes[attr.replace(/-(.)/g, (_, char) => char.toUpperCase())] = node.attributes[attr];
+                  delete node.attributes[attr];
+                })
+              }
+            }
+          }
+        }
+      }
+    ]
   }).data;
   const name = path.basename(file, '.svg');
   await writeFile(
