@@ -1,5 +1,5 @@
 # kamon
-* kamon is a project to manage svg icons for the products of [NOTA Inc.](https://notainc.com)
+* kamon is a project to manage svg icons for the products of [Helpfeel Inc.](https://corp.helpfeel.com)
 * See https://nota.github.io/kamon/example/ to check all icons.
 
 
